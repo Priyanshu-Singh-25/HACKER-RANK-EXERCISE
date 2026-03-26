@@ -37,6 +37,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <math.h>
+#include<limit.h>
 #include <stdlib.h>
 int buildNumber(int a, int b, int c, int d){
     
