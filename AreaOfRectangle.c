@@ -33,7 +33,7 @@
         Sample Output 1
         
         The area is: 40 units
-          */
+        */
 
 //Solution
 
