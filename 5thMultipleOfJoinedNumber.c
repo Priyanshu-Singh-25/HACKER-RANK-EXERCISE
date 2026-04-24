@@ -29,7 +29,7 @@
       9 0 7 1
       Sample Output 1
       
-      The number is: 45355
+      The number is: 45355 
       */
 
 //Solution
