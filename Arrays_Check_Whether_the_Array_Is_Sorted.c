@@ -23,7 +23,7 @@
       Descending
       Not Sorted
       Sample Input 0
-      
+       
       5
       1 2 2 3 5
       Sample Output 0
